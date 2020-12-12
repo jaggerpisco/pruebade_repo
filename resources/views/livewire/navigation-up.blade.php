@@ -10,6 +10,7 @@
         <ul class="flex items-center flex-shrink-0 space-x-6">
 
         </ul>
+        
         MODO DE PRUEBA PARA LA PRESENTACIÓN DEL PROYECTO
 
         <!-- Profile menu -->
