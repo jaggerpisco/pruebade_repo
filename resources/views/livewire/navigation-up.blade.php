@@ -8,9 +8,9 @@
         </button>
 
         <ul class="flex items-center flex-shrink-0 space-x-6">
-        
-        </ul>
 
+        </ul>
+        MODO DE PRUEBA PARA LA PRESENTACIÓN DEL PROYECTO
 
         <!-- Profile menu -->
         <div class="ml-6">
@@ -99,7 +99,7 @@
                             </span>{{ __('Cerrar sesión') }}</span>
                         </x-dropdown-link>
                     </form>
-                    
+
                 </x-slot>
             </x-dropdown>
         </div>
