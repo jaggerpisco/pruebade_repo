@@ -27,7 +27,7 @@ class WorkerFactory extends Factory
             'work_ape_materno'=>$this->faker->lastname,
             'work_fecha_nacimiento'=> $this->faker->dateTimeThisYear('+1 month'),
             'work_doc_identidad'=>$this->faker->biasedNumberBetween('44444444','77777777'), 
-            'job_id'=> $this->faker->biasedNumberBetween('1','9'),
+            'job_id'=> $this->faker->biasedNumberBetween('1','4'),
             'work_celular'=> $this->faker->e164PhoneNumber,
             'work_correo' => $this->faker->unique()->safeEmail,
             'work_direccion'=>$this->faker->city

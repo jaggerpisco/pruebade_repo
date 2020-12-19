@@ -22,7 +22,7 @@ class JobsFactory extends Factory
     public function definition()
     {
         return [
-            'nombre'=>$this->faker->jobTitle
+            
         ];
     }
 }

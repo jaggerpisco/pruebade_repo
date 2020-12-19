@@ -25,7 +25,7 @@ class DatabaseSeeder extends Seeder
     {
 
 
-        Jobs::factory(5)->create();
+        //Jobs::factory(5)->create();
         Worker::factory(50)->create();
         /*NameProduct::factory(7)->create();
         MeasureProduct::factory(5)->create();
